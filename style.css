@@ -154,3 +154,21 @@ main{
     justify-content: space-between;
     margin: 10px 0 20px;
 }
+@media(min-width:800px){
+    .boxTwo .gbLeft{
+        top: -50px;
+        padding: 10px;
+        left: 310px;
+        width: 170px;
+    }
+    .boxTwo .gbLeft::after{
+        content:"";
+        position:absolute;
+        width:0px;
+        height:0px;
+        border: 13px solid;
+        border-color: #FFF #FFF transparent transparent;
+        right: 0px;
+        bottom: -18px;
+    }
+}
