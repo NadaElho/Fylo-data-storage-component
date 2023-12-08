@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL ](https://github.com/NadaElho/Fylo-data-storage-component)
-- [Live site URL ]https://nadaelho.github.io/Fylo-data-storage-component/)
+- [Live site URL](https://nadaelho.github.io/Fylo-data-storage-component/)
 
 ## My process
 
